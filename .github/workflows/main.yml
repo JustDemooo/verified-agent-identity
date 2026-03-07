@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: JustDemoo
 
 on:
   workflow_dispatch:
